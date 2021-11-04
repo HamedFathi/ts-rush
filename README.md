@@ -1,1 +1,1 @@
-# dkorator
+# Deco

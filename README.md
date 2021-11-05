@@ -1,2 +1,2 @@
-# ts-toolkit
+# ts-rush
 

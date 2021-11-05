@@ -1,5 +1,5 @@
 {
-  "name": "@hamedfathi/ts-rush",
+  "name": "ts-rush",
   "version": "0.0.1",
   "description": "A collection of helpful utilities, types, and decorators for TypeScript/JavaScript projects.",
   "keywords": [

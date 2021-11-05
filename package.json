@@ -1,5 +1,5 @@
 {
-  "name": "@hamedfathi/ts-toolkit",
+  "name": "@hamedfathi/ts-rush",
   "version": "0.0.1",
   "description": "A collection of helpful utilities, types, and decorators for TypeScript/JavaScript projects.",
   "keywords": [
@@ -11,16 +11,16 @@
     "helpers",
     "types"
   ],
-  "homepage": "https://github.com/HamedFathi/ts-toolkit",
+  "homepage": "https://github.com/HamedFathi/ts-rush",
   "bugs": {
-    "url": "https://github.com/HamedFathi/ts-toolkit/issues"
+    "url": "https://github.com/HamedFathi/ts-rush/issues"
   },
   "license": "MIT",
   "author": "Hamed Fathi <hamedfathi.contact@gmail.com>",
   "main": "dist/commonjs/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HamedFathi/ts-toolkit"
+    "url": "https://github.com/HamedFathi/ts-rush"
   },
   "typings": "dist/commonjs/index.d.ts",
   "scripts": {

@@ -1,5 +1,5 @@
 {
-  "name": "deco",
+  "name": "ts-workbox",
   "version": "0.0.1",
   "description": "A collection of helpful decorators for TypeScript projects especially Angular and Aurelia.",
   "keywords": [
@@ -10,16 +10,16 @@
     "decorators",
     "helpers"
   ],
-  "homepage": "https://github.com/HamedFathi/Deco",
+  "homepage": "https://github.com/HamedFathi/ts-workbox",
   "bugs": {
-    "url": "https://github.com/HamedFathi/Deco/issues"
+    "url": "https://github.com/HamedFathi/ts-workbox/issues"
   },
   "license": "MIT",
   "author": "Hamed Fathi <hamedfathi.contact@gmail.com>",
   "main": "dist/commonjs/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HamedFathi/Deco"
+    "url": "https://github.com/HamedFathi/ts-workbox"
   },
   "typings": "dist/commonjs/index.d.ts",
   "scripts": {

@@ -1,14 +1,15 @@
 {
   "name": "ts-workbox",
   "version": "0.0.1",
-  "description": "A collection of helpful decorators for TypeScript projects especially Angular and Aurelia.",
+  "description": "A collection of helpful utilities, types, and decorators for TypeScript/JavaScript projects.",
   "keywords": [
     "javascript",
     "typescript",
     "collection",
     "utilities",
     "decorators",
-    "helpers"
+    "helpers",
+    "types"
   ],
   "homepage": "https://github.com/HamedFathi/ts-workbox",
   "bugs": {

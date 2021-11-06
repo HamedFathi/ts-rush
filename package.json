@@ -1,5 +1,5 @@
 {
-  "name": "ts-rush",
+  "name": "ts-cult",
   "version": "0.0.1",
   "description": "A collection of helpful utilities, types, and decorators for TypeScript/JavaScript projects.",
   "keywords": [
@@ -11,16 +11,16 @@
     "helpers",
     "types"
   ],
-  "homepage": "https://github.com/HamedFathi/ts-rush",
+  "homepage": "https://github.com/HamedFathi/ts-cult",
   "bugs": {
-    "url": "https://github.com/HamedFathi/ts-rush/issues"
+    "url": "https://github.com/HamedFathi/ts-cult/issues"
   },
   "license": "MIT",
   "author": "Hamed Fathi <hamedfathi.contact@gmail.com>",
   "main": "dist/commonjs/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/HamedFathi/ts-rush"
+    "url": "https://github.com/HamedFathi/ts-cult"
   },
   "typings": "dist/commonjs/index.d.ts",
   "scripts": {

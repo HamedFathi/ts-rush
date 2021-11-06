@@ -1,2 +1,2 @@
-# ts-rush
+# ts-cult
 
